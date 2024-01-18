@@ -6,6 +6,8 @@ Config.AllowedVehicles = {
 
 Config.Location = vector4(462.22, -641.15, 28.45, 175.0)
 
+Config.PaymentMin = 200
+Config.PaymentMax = 300
 Config.NPCLocations = {
     Locations = {
         vector4(304.36, -764.56, 29.31, 252.09),
